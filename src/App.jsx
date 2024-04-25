@@ -17,6 +17,8 @@ function App() {
         <Route path="/services" element={<ServicesPage />} />
         <Route path="/career" element={<CareerPage />} />
         <Route path="/contactus" element={<ContactUsPage />} />
+        <Route path="/impressum" element={<ContactUsPage />} />
+        <Route path="/datenschutz" element={<ContactUsPage />} />
       </Routes>
       <ToastContainer />
     </div>
