@@ -24,7 +24,7 @@ const ServicesSection = () => {
 
         <div className="flex justify-around  flex-wrap overflow-auto gap-y-5  items-center py-5">
           <ServicesCard title={"Eigentumsschutz"} image={Service1} />
-          <ServicesCard title={"Feueruhr"} image={Service2} />
+          <ServicesCard title={"Persönlicher Schutz"} image={Service7} />
           <ServicesCard title={"Bewachung"} image={Service3} />
         </div>
         <div className="flex justify-center my-5">
