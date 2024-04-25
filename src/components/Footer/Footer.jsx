@@ -62,10 +62,10 @@ const Footer = () => {
                   Unternehmen
                 </header>
                 <Link
-                  to="/"
+                  to="/impressum"
                   className="link link-hover text-white hover:text-yellow-400 my-2"
                 >
-                  Geschäftsbedingungen
+                  Impressum
                 </Link>
                 <Link
                   to="/"
