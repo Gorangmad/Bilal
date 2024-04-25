@@ -36,11 +36,6 @@ const ServicesPageSection = () => {
             description="Sichern Sie die Sicherheit und den Schutz Ihres Eigentums mit unserem umfassenden Objektschutz. Bei BKF haben wir es uns zur Priorität gemacht, Ihre Vermögenswerte zu schützen. Unser Expertenteam setzt modernste Technologien und strategische Lösungen ein, um Risiken zu minimieren und potenzielle Bedrohungen abzuschrecken. Von Wohnimmobilien bis zu Gewerbeimmobilien gewährleistet unser maßgeschneiderter Ansatz eine aufmerksame und reaktionsschnelle Sicherheitspräsenz. Vertrauen Sie uns, um das zu schützen, was für Sie am wichtigsten ist, und bieten Sie Eigentümern und Insassen gleichermaßen ein beruhigendes Gefühl."
           />
           <ServicesCard
-            title={"Feuerwache"}
-            image={Service2}
-            description="Verbessern Sie Ihre Brandschutzmaßnahmen mit unserem umfassenden Feuerwachdienst bei BKF. Unser engagiertes Team von geschulten Fachleuten bietet eine aufmerksame Überwachung, um potenzielle Brandrisiken während vorübergehender Zeiträume erhöhter Verwundbarkeit zu minimieren. Mit dem Engagement für den Schutz Ihrer Vermögenswerte bietet unser Service eine zuverlässige Schutzschicht. Vertrauen Sie BKF, um Wache zu stehen und einen professionellen Feuerwachdienst anzubieten, der die Sicherheit Ihrer Räumlichkeiten verbessert."
-          />
-          <ServicesCard
             title={"Bewachung"}
             image={Service3}
             description="Bewachung mit Präzision und Wachsamkeit: Unser Sicherheitspersonal bei BKF steht als unerschütterliche Wächter da, die sich der Sicherung Ihrer Räumlichkeiten und Vermögenswerte verschrieben haben. Sorgfältig geschult und äußerst professionell bieten unsere Wächter eine sichtbare Abschreckung gegen potenzielle Bedrohungen und gewährleisten eine sichere Umgebung. Egal, ob es um die Sicherung Ihres Unternehmens, Ihrer Residenz, Ihrer Veranstaltung oder Ihrer Baustelle geht – unser Bewachungsdienst ist Ihre Verteidigungslinie. Vertrauen Sie BKF für einen robusten Bewachungsdienst, der die Erwartungen übertrifft."
