@@ -5,6 +5,7 @@ import AboutUsPage from "./containers/AboutUsPage/AboutUsPage";
 import ServicesPage from "./containers/ServicesPage/ServicesPage";
 import CareerPage from "./containers/CareerPage/CareerPage";
 import ContactUsPage from "./containers/ContactUsPage/ContactUsPage";
+import Impressum from "./containers/Impressum"
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
@@ -17,7 +18,7 @@ function App() {
         <Route path="/services" element={<ServicesPage />} />
         <Route path="/career" element={<CareerPage />} />
         <Route path="/contactus" element={<ContactUsPage />} />
-        <Route path="/impressum" element={<ContactUsPage />} />
+        <Route path="/impressum" element={<Impressum />} />
         <Route path="/datenschutz" element={<ContactUsPage />} />
       </Routes>
       <ToastContainer />
