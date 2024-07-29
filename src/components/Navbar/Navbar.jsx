@@ -79,7 +79,7 @@ const Navbar = (props) => {
                   scrolled ? "text-slate-100" : ""
                 }`}
               >
-                Sicherheitsdienste
+                Sicherheitsdienstleistungen
               </Link>
             </li>
             <li
